@@ -2,7 +2,7 @@
 
 A PyQt5-based desktop application for managing programming projects with a sleek dark theme.
 
-![Project Organizer Dark Theme](https://user-images.githubusercontent.com/YOUR_USER_ID/ProjectOrganizer/screenshots/main_view.png)
+![Project Organizer Dark Theme](https://github.com/faridfgx/ProjectOrganizer/raw/main/screenshots/main.png)
 
 ## Overview
 
@@ -21,13 +21,16 @@ Project Organizer is a comprehensive tool designed to help developers track and 
 ## Screenshots
 
 ### Main Interface
-![Main Interface](https://user-images.githubusercontent.com/YOUR_USER_ID/ProjectOrganizer/screenshots/main_interface.png)
+![Main Interface](https://github.com/faridfgx/ProjectOrganizer/raw/main/screenshots/main.png)
 
 ### Project Dashboard
-![Dashboard](https://user-images.githubusercontent.com/YOUR_USER_ID/ProjectOrganizer/screenshots/dashboard.png)
+![Dashboard](https://github.com/faridfgx/ProjectOrganizer/raw/main/screenshots/dashboard.png)
 
 ### Smart Filters
-![Smart Filters](https://user-images.githubusercontent.com/YOUR_USER_ID/ProjectOrganizer/screenshots/filters.png)
+![Smart Filters](https://github.com/faridfgx/ProjectOrganizer/raw/main/screenshots/filters.png)
+
+### Add/Edit Project
+![New Project](https://github.com/faridfgx/ProjectOrganizer/raw/main/screenshots/newprj.png)
 
 ## Project Structure
 
